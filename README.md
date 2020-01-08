@@ -1,3 +1,4 @@
+[![Build Status](https://velrada-tfs.visualstudio.com/DOPeFormsPlatform/_apis/build/status/TX-GH.pipelines-java?branchName=master)](https://velrada-tfs.visualstudio.com/DOPeFormsPlatform/_build/latest?definitionId=110&branchName=master)
 
 # Contributing
 
